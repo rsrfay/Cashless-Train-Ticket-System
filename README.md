@@ -1,3 +1,8 @@
+
+# Cashless Train Ticket System
+---
+This project is an implementation of a mobile application designed for providing virtual wallet and train ticket purchasing.
+
 # How to start the web application of the prototype
 1. Run the system-db.sql file in MySQL.
 2. Adjust user configuration by changing the .env in the backend_db folder. 
@@ -6,6 +11,7 @@
 5. cd backend_db folder in 1 terminal, type npm install, and then npm start.
 6. cd front_ui folder in another terminal type npm install, and then npm start.
 #### The terminals should show
+
 ![Alt text](mock-up-prototype/image.png)
 
 7. Open http://localhost:3030/ in a web browser and adjust the screen size to iPhone 14 Pro Max.
