@@ -16,6 +16,6 @@ This project is an implementation of a mobile application designed for providing
 
 7. Open http://localhost:3030/ in a web browser and adjust the screen size to iPhone 14 Pro Max.
 ---
-# Snapshot of the prototype:
+# Snapshot of the prototype
 
 ![Alt text](mock-up-prototype/screenshot.png)
