@@ -3,7 +3,7 @@
 ---
 This project is an implementation of a mobile application designed for providing virtual wallet and train ticket purchasing.
 
-# How to start the web application of the prototype
+### How to start the web application of the prototype
 1. Run the system-db.sql file in MySQL.
 2. Adjust user configuration by changing the .env in the backend_db folder. 
 3. Open the mock-up-prototype folder in any code editor such as VS Code.
@@ -15,3 +15,7 @@ This project is an implementation of a mobile application designed for providing
 ![Alt text](mock-up-prototype/image.png)
 
 7. Open http://localhost:3030/ in a web browser and adjust the screen size to iPhone 14 Pro Max.
+---
+# Snapshot of the prototype:
+
+![Alt text](mock-up-prototype/screenshot.png)
